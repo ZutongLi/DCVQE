@@ -1,0 +1,28 @@
+unzip the downloaded LSVQ datasets and unzip the ia-batch* folders in this file.
+the *.mp4 are in each ia-batch* files
+eg:
+
+drwxr-xr-x 2 root root 69632 Jun  3 18:51 ia-batch1
+drwxrwxrwx 2 root root 61440 May 17  2021 ia-batch10
+drwxrwxrwx 2 root root 69632 May 17  2021 ia-batch11
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch12
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch13
+drwxrwxrwx 2 root root 61440 May 17  2021 ia-batch14
+drwxrwxrwx 2 root root 57344 May 17  2021 ia-batch15
+drwxrwxrwx 2 root root 69632 May 17  2021 ia-batch16
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch17
+drwxrwxrwx 2 root root 61440 May 17  2021 ia-batch18
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch19
+drwxr-xr-x 2 root root 69632 Jun  3 18:55 ia-batch2
+drwxrwxrwx 2 root root 61440 May 17  2021 ia-batch20
+drwxrwxrwx 2 root root 53248 May 17  2021 ia-batch21
+drwxrwxrwx 2 root root 57344 May 17  2021 ia-batch22
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch23
+drwxrwxrwx 2 root root 20480 May 17  2021 ia-batch24
+drwxrwxrwx 2 root root 61440 May 17  2021 ia-batch3
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch4
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch5
+drwxrwxrwx 2 root root 53248 May 17  2021 ia-batch6
+drwxrwxrwx 2 root root 57344 May 17  2021 ia-batch7
+drwxrwxrwx 2 root root 61440 May 17  2021 ia-batch8
+drwxrwxrwx 2 root root 65536 May 17  2021 ia-batch9

@@ -1,0 +1,31 @@
+Environment:
+python 3.6.5
+torch >= 1.1.0
+
+
+
+1.  data preprocess
+    a) load the pretrained Resnet50 weights. The weights file was pretrained on Koniqa 1024 x 768 without resize  
+     download the weights from the link  https://drive.google.com/file/d/1V6ktgIQaw4lfDOprkXTDnyrEKpZLxlIi/view?usp=sharing
+     and put it into models/Koniqa.pth)
+    b) download the dataset ["KoNVid", 'LIVE', "Youtube", 'YFCC', 'IA'], and their MOS files to "videos/". (see README in each dirs in "videos/") 
+    c) python data_generator.py, to obtain the preprocessed training/testing data (just modify the __main__ func to select one dataset.)
+
+
+Once feature preprocessing done, run the following script (step 2). 
+The processed KoNVid data can be download from the following link, directly download and unzip 
+the zip file to "data/CNNFeatures", then run the following script (step 2) to test our model if 
+you want to skip step 1.
+
+2.  train and eval
+    a) bash script/loop_stater.sh
+       this script will run 100 random splitted 80-20 trainning/testing experiments on selected dataset.
+       the final results will be print on screen, also will be recorded in experiment/XXXXX.txt (see the param "experiment_writer" in script/train_Kon_15_mask_iqa.sh)
+       don't forget to change the GPU id in corresonse script to match your system (see script/train_Kon_15_mask_iqa.sh in default example).
+
+
+
+KoNVid processed data: https://drive.google.com/file/d/1qnDNyuG5Pr5HPIZ9fF8dTde5bwGTQ2an/view?usp=sharing
+
+    
+

@@ -1,0 +1,29 @@
+unzip the downloaded LSVQ datasets and unzip the yfcc-batch* folders in this file.
+the *.mp4 are in each yfcc-batch* files
+eg:
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch1
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch10
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch11
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch12
+drwxrwxrwx 2 root root 24576 Oct 16  2020 yfcc-batch13
+drwxrwxrwx 2 root root 28672 Oct 16  2020 yfcc-batch14
+drwxr-xr-x 2 root root 28672 Dec 14  2020 yfcc-batch16
+drwxr-xr-x 2 root root 24576 Dec 14  2020 yfcc-batch17
+drwxr-xr-x 2 root root 32768 Dec 14  2020 yfcc-batch18
+drwxr-xr-x 2 root root 32768 Dec 14  2020 yfcc-batch19
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch2
+drwxr-xr-x 2 root root 28672 Dec 14  2020 yfcc-batch20
+drwxr-xr-x 2 root root 24576 Dec 14  2020 yfcc-batch21
+drwxr-xr-x 2 root root 28672 Dec 14  2020 yfcc-batch22
+drwxr-xr-x 2 root root 32768 Dec 14  2020 yfcc-batch23
+drwxr-xr-x 2 root root 24576 Dec 14  2020 yfcc-batch24
+drwxr-xr-x 2 root root 12288 Dec 14  2020 yfcc-batch25
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch3
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch4
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch5
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch6
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch7
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch8
+drwxrwxrwx 2 root root 20480 Oct 16  2020 yfcc-batch9
+
+
